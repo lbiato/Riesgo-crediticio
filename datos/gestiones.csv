@@ -1,0 +1,857 @@
+gestion_id,cliente_id,fecha,canal,resultado
+1,1,2026-05-23,Visita,Sin respuesta
+2,1,2026-04-26,Mail,Sin respuesta
+3,1,2026-01-17,Teléfono,Pide refinanciar
+4,1,2026-09-28,Visita,Reclamo
+5,1,2025-09-22,Visita,Sin respuesta
+6,1,2026-03-01,Mail,Promesa de pago
+7,3,2025-03-13,Mail,Promesa de pago
+8,3,2026-02-09,Mail,Sin respuesta
+9,3,2025-05-24,WhatsApp,Sin respuesta
+10,3,2026-03-19,WhatsApp,Pago informado
+11,3,2025-12-17,WhatsApp,Sin respuesta
+12,3,2026-04-09,Teléfono,Promesa de pago
+13,3,2025-11-26,Teléfono,Promesa de pago
+14,4,2025-02-23,Visita,Reclamo
+15,4,2026-02-21,Mail,Reclamo
+16,4,2026-06-15,Visita,Pago informado
+17,5,2026-07-11,Teléfono,Pago informado
+18,5,2026-08-26,Mail,Sin respuesta
+19,6,2026-05-10,Visita,Pago informado
+20,6,2025-10-02,Visita,Pide refinanciar
+21,6,2026-08-21,Teléfono,Promesa de pago
+22,6,2025-08-13,Visita,Sin respuesta
+23,6,2025-08-29,Teléfono,Pago informado
+24,6,2025-11-10,Visita,Pago informado
+25,8,2025-09-02,Mail,Sin respuesta
+26,8,2025-01-17,Mail,Pago informado
+27,9,2025-05-18,WhatsApp,Promesa de pago
+28,9,2025-02-10,Visita,Sin respuesta
+29,9,2025-10-23,Teléfono,Pago informado
+30,11,2025-12-24,Mail,Reclamo
+31,11,2025-08-29,Mail,Pago informado
+32,11,2025-07-23,Visita,Promesa de pago
+33,11,2026-02-27,WhatsApp,Pago informado
+34,11,2026-06-14,Teléfono,Pago informado
+35,11,2025-09-02,Teléfono,Reclamo
+36,11,2026-05-30,Teléfono,Sin respuesta
+37,11,2026-02-08,Mail,Sin respuesta
+38,12,2026-06-17,Visita,Reclamo
+39,12,2026-04-30,Visita,Reclamo
+40,12,2025-12-11,WhatsApp,Reclamo
+41,12,2025-11-19,WhatsApp,Sin respuesta
+42,12,2026-02-13,Mail,Pago informado
+43,12,2025-12-31,Mail,Reclamo
+44,12,2025-01-04,Visita,Pago informado
+45,12,2025-05-23,Mail,Promesa de pago
+46,12,2026-06-28,Teléfono,Reclamo
+47,13,2025-08-09,WhatsApp,Promesa de pago
+48,13,2026-01-21,WhatsApp,Pago informado
+49,15,2026-06-09,WhatsApp,Reclamo
+50,15,2026-08-07,Teléfono,Pide refinanciar
+51,16,2026-05-16,Teléfono,Pago informado
+52,16,2026-06-24,Visita,Pago informado
+53,16,2026-04-11,Teléfono,Pide refinanciar
+54,16,2026-04-24,Mail,Reclamo
+55,16,2026-08-19,Visita,Promesa de pago
+56,16,2026-04-21,Mail,Reclamo
+57,16,2026-07-06,WhatsApp,Reclamo
+58,16,2026-05-12,WhatsApp,Sin respuesta
+59,16,2026-04-07,Visita,Promesa de pago
+60,17,2025-08-23,Mail,Promesa de pago
+61,17,2025-11-09,WhatsApp,Promesa de pago
+62,18,2026-05-10,Visita,Reclamo
+63,18,2026-05-12,Teléfono,Reclamo
+64,18,2025-12-14,Visita,Pide refinanciar
+65,18,2026-04-03,Mail,Reclamo
+66,18,2026-08-07,Visita,Pide refinanciar
+67,19,2025-08-25,WhatsApp,Pago informado
+68,20,2026-07-05,Mail,Sin respuesta
+69,20,2026-01-27,WhatsApp,Sin respuesta
+70,20,2026-09-11,Teléfono,Sin respuesta
+71,20,2026-03-29,WhatsApp,Pago informado
+72,20,2025-10-03,Visita,Pago informado
+73,21,2026-01-30,WhatsApp,Reclamo
+74,23,2026-02-01,Teléfono,Pago informado
+75,23,2026-09-18,Mail,Sin respuesta
+76,25,2026-03-07,Teléfono,Pide refinanciar
+77,25,2026-09-08,Teléfono,Pago informado
+78,25,2025-12-23,Teléfono,Sin respuesta
+79,25,2026-08-14,WhatsApp,Promesa de pago
+80,25,2026-01-08,WhatsApp,Promesa de pago
+81,25,2025-11-11,Mail,Pide refinanciar
+82,26,2025-07-04,Mail,Promesa de pago
+83,26,2026-05-22,Teléfono,Reclamo
+84,27,2025-11-04,WhatsApp,Promesa de pago
+85,27,2026-08-21,WhatsApp,Promesa de pago
+86,27,2025-12-21,WhatsApp,Pago informado
+87,27,2025-12-31,Mail,Pide refinanciar
+88,27,2026-03-19,Teléfono,Reclamo
+89,27,2026-05-30,Mail,Sin respuesta
+90,27,2026-06-17,Mail,Reclamo
+91,27,2026-06-23,Visita,Pago informado
+92,27,2026-02-12,Teléfono,Reclamo
+93,27,2025-12-12,Visita,Promesa de pago
+94,28,2026-07-29,Mail,Promesa de pago
+95,28,2026-05-19,Mail,Promesa de pago
+96,28,2026-03-26,Mail,Reclamo
+97,28,2026-05-20,Visita,Reclamo
+98,28,2026-05-22,Teléfono,Sin respuesta
+99,28,2026-08-10,Mail,Pago informado
+100,28,2026-04-15,Teléfono,Reclamo
+101,28,2026-09-22,Visita,Pide refinanciar
+102,28,2026-08-24,Mail,Pago informado
+103,29,2025-04-23,Mail,Promesa de pago
+104,31,2025-12-23,Mail,Pago informado
+105,31,2026-02-19,WhatsApp,Pide refinanciar
+106,31,2026-04-13,WhatsApp,Pide refinanciar
+107,31,2026-02-13,WhatsApp,Pide refinanciar
+108,31,2026-01-06,Teléfono,Pago informado
+109,31,2026-07-04,Visita,Promesa de pago
+110,31,2026-09-01,Mail,Pago informado
+111,31,2026-01-22,WhatsApp,Promesa de pago
+112,31,2026-02-02,Mail,Reclamo
+113,31,2026-05-07,Visita,Pide refinanciar
+114,31,2026-05-28,Mail,Promesa de pago
+115,31,2026-08-28,Teléfono,Promesa de pago
+116,34,2025-02-22,Visita,Sin respuesta
+117,34,2026-06-22,Visita,Sin respuesta
+118,35,2026-07-08,Mail,Promesa de pago
+119,35,2026-09-27,Visita,Reclamo
+120,35,2026-08-16,Visita,Pago informado
+121,35,2026-08-01,Teléfono,Pago informado
+122,36,2026-02-06,WhatsApp,Sin respuesta
+123,36,2026-07-11,WhatsApp,Promesa de pago
+124,38,2026-05-01,WhatsApp,Promesa de pago
+125,39,2026-01-27,Teléfono,Promesa de pago
+126,39,2025-01-11,Visita,Pago informado
+127,39,2026-01-05,Teléfono,Sin respuesta
+128,40,2025-08-28,Mail,Promesa de pago
+129,42,2025-11-07,WhatsApp,Promesa de pago
+130,42,2025-04-29,Visita,Sin respuesta
+131,42,2026-05-30,Visita,Promesa de pago
+132,42,2025-12-10,WhatsApp,Sin respuesta
+133,42,2025-04-25,Visita,Pago informado
+134,42,2026-06-29,Mail,Promesa de pago
+135,42,2025-06-03,WhatsApp,Pago informado
+136,45,2025-02-27,Teléfono,Promesa de pago
+137,45,2025-09-08,Teléfono,Promesa de pago
+138,45,2025-09-08,Visita,Pago informado
+139,45,2025-07-01,WhatsApp,Pago informado
+140,45,2026-07-20,Mail,Promesa de pago
+141,46,2025-06-30,Visita,Promesa de pago
+142,48,2026-08-14,Teléfono,Sin respuesta
+143,48,2025-06-01,WhatsApp,Sin respuesta
+144,48,2025-07-05,Mail,Promesa de pago
+145,48,2026-07-01,Mail,Pide refinanciar
+146,48,2025-05-11,WhatsApp,Pide refinanciar
+147,48,2025-03-12,WhatsApp,Reclamo
+148,48,2025-08-24,Teléfono,Sin respuesta
+149,49,2025-02-16,Teléfono,Sin respuesta
+150,49,2025-07-01,Mail,Pide refinanciar
+151,49,2025-05-12,Teléfono,Pide refinanciar
+152,49,2025-05-24,Mail,Pago informado
+153,49,2025-03-04,Teléfono,Pide refinanciar
+154,49,2025-10-28,Visita,Reclamo
+155,49,2025-06-11,Teléfono,Pago informado
+156,49,2025-06-28,Teléfono,Pide refinanciar
+157,49,2025-07-05,Mail,Reclamo
+158,49,2025-06-16,Visita,Promesa de pago
+159,49,2025-07-28,Visita,Reclamo
+160,49,2026-01-18,WhatsApp,Reclamo
+161,49,2025-01-30,WhatsApp,Promesa de pago
+162,49,2025-01-30,Mail,Pago informado
+163,50,2026-01-01,Mail,Pago informado
+164,51,2026-06-30,Visita,Promesa de pago
+165,51,2025-05-17,Mail,Promesa de pago
+166,51,2025-10-28,Mail,Sin respuesta
+167,52,2026-05-13,Visita,Pide refinanciar
+168,52,2025-12-19,Visita,Sin respuesta
+169,52,2025-08-31,WhatsApp,Pago informado
+170,52,2026-02-12,WhatsApp,Reclamo
+171,53,2026-08-14,Visita,Pide refinanciar
+172,53,2026-08-24,WhatsApp,Sin respuesta
+173,53,2026-05-01,Visita,Sin respuesta
+174,53,2026-02-27,Visita,Reclamo
+175,53,2026-06-12,Visita,Pago informado
+176,53,2025-12-30,Mail,Pago informado
+177,53,2026-07-27,WhatsApp,Promesa de pago
+178,53,2026-09-01,Visita,Pago informado
+179,53,2026-04-23,WhatsApp,Pago informado
+180,54,2025-10-22,WhatsApp,Sin respuesta
+181,55,2025-01-11,Mail,Pago informado
+182,55,2026-04-05,Teléfono,Sin respuesta
+183,57,2026-01-19,Teléfono,Reclamo
+184,57,2026-02-07,Visita,Sin respuesta
+185,57,2025-04-22,Visita,Pide refinanciar
+186,57,2025-11-04,Visita,Pide refinanciar
+187,57,2025-02-22,Teléfono,Sin respuesta
+188,57,2025-12-12,Teléfono,Pide refinanciar
+189,57,2026-01-29,Visita,Pide refinanciar
+190,58,2025-02-11,Visita,Promesa de pago
+191,58,2025-03-24,Mail,Promesa de pago
+192,59,2025-07-08,Mail,Sin respuesta
+193,60,2025-09-12,Visita,Pago informado
+194,60,2025-01-12,WhatsApp,Reclamo
+195,60,2025-07-29,WhatsApp,Sin respuesta
+196,61,2026-08-22,Visita,Reclamo
+197,61,2026-04-20,Mail,Pago informado
+198,62,2025-10-14,Mail,Pago informado
+199,62,2025-11-01,Mail,Promesa de pago
+200,63,2025-06-28,Visita,Pide refinanciar
+201,63,2026-01-17,WhatsApp,Pago informado
+202,63,2025-10-27,Visita,Sin respuesta
+203,66,2026-09-27,Mail,Sin respuesta
+204,66,2026-07-03,Visita,Reclamo
+205,66,2026-06-10,WhatsApp,Pago informado
+206,67,2026-03-22,Visita,Sin respuesta
+207,67,2026-04-02,Teléfono,Pago informado
+208,67,2025-04-13,Visita,Pago informado
+209,69,2026-06-18,Teléfono,Promesa de pago
+210,69,2025-04-05,Mail,Pide refinanciar
+211,77,2026-05-21,WhatsApp,Promesa de pago
+212,77,2026-05-29,Teléfono,Pago informado
+213,77,2026-07-13,Visita,Reclamo
+214,77,2026-04-26,Mail,Pago informado
+215,77,2026-08-22,Mail,Promesa de pago
+216,77,2026-07-21,Teléfono,Sin respuesta
+217,79,2025-01-31,Mail,Pago informado
+218,79,2025-01-28,Mail,Sin respuesta
+219,79,2025-02-01,WhatsApp,Pago informado
+220,82,2026-07-26,Teléfono,Promesa de pago
+221,83,2025-11-26,Visita,Promesa de pago
+222,83,2026-02-22,Teléfono,Sin respuesta
+223,83,2026-08-20,Visita,Pago informado
+224,83,2025-05-28,WhatsApp,Promesa de pago
+225,83,2025-08-14,WhatsApp,Reclamo
+226,83,2025-01-18,Visita,Pago informado
+227,84,2025-03-28,Teléfono,Sin respuesta
+228,85,2026-04-18,Visita,Promesa de pago
+229,85,2026-01-29,Teléfono,Sin respuesta
+230,85,2026-08-12,Visita,Promesa de pago
+231,86,2026-05-10,WhatsApp,Sin respuesta
+232,86,2026-02-03,Teléfono,Sin respuesta
+233,86,2026-02-18,Teléfono,Pide refinanciar
+234,86,2025-08-16,WhatsApp,Reclamo
+235,86,2025-04-15,Mail,Sin respuesta
+236,86,2026-07-28,WhatsApp,Pago informado
+237,86,2026-01-10,Visita,Promesa de pago
+238,86,2026-06-16,Visita,Reclamo
+239,86,2026-07-27,Mail,Reclamo
+240,88,2025-03-31,Teléfono,Pago informado
+241,88,2025-07-05,Visita,Reclamo
+242,88,2026-04-21,WhatsApp,Reclamo
+243,88,2026-01-07,WhatsApp,Pide refinanciar
+244,88,2026-05-11,Visita,Sin respuesta
+245,88,2025-06-08,Mail,Pide refinanciar
+246,88,2025-11-30,Mail,Sin respuesta
+247,88,2026-06-08,Visita,Pago informado
+248,88,2026-07-22,Mail,Sin respuesta
+249,88,2026-02-06,Teléfono,Promesa de pago
+250,88,2026-03-27,Visita,Promesa de pago
+251,90,2025-10-16,Mail,Sin respuesta
+252,91,2026-09-18,WhatsApp,Reclamo
+253,93,2025-08-29,Visita,Reclamo
+254,93,2025-05-31,Mail,Promesa de pago
+255,93,2026-04-01,WhatsApp,Promesa de pago
+256,93,2026-06-05,Mail,Promesa de pago
+257,93,2026-07-14,WhatsApp,Pago informado
+258,94,2026-01-04,Mail,Pago informado
+259,94,2026-06-24,Mail,Promesa de pago
+260,97,2026-07-29,Visita,Pide refinanciar
+261,97,2025-11-28,Mail,Promesa de pago
+262,97,2025-12-23,Visita,Pago informado
+263,97,2026-07-02,Teléfono,Pago informado
+264,97,2026-02-06,Teléfono,Promesa de pago
+265,97,2026-08-20,WhatsApp,Pide refinanciar
+266,97,2026-06-13,WhatsApp,Promesa de pago
+267,97,2026-06-14,Visita,Sin respuesta
+268,97,2026-03-12,Visita,Sin respuesta
+269,97,2025-12-06,Mail,Sin respuesta
+270,97,2026-01-21,Teléfono,Promesa de pago
+271,97,2026-07-26,Teléfono,Reclamo
+272,97,2026-07-01,Teléfono,Reclamo
+273,100,2025-04-11,Mail,Promesa de pago
+274,100,2025-07-23,Visita,Promesa de pago
+275,100,2026-02-18,Mail,Sin respuesta
+276,103,2025-06-05,Mail,Promesa de pago
+277,103,2026-02-20,Visita,Promesa de pago
+278,103,2025-02-09,Visita,Sin respuesta
+279,103,2026-04-04,Teléfono,Pago informado
+280,103,2025-09-15,Teléfono,Promesa de pago
+281,105,2026-01-10,Mail,Sin respuesta
+282,105,2025-08-25,Mail,Sin respuesta
+283,105,2025-02-19,Visita,Pago informado
+284,107,2025-03-06,Mail,Pago informado
+285,107,2026-03-26,Mail,Promesa de pago
+286,108,2025-08-19,Visita,Pide refinanciar
+287,108,2025-12-19,WhatsApp,Promesa de pago
+288,108,2026-09-12,Teléfono,Pago informado
+289,108,2026-04-10,Teléfono,Sin respuesta
+290,108,2025-06-22,Teléfono,Pago informado
+291,108,2026-03-21,Mail,Promesa de pago
+292,109,2025-10-02,Teléfono,Reclamo
+293,109,2026-01-05,Visita,Sin respuesta
+294,109,2026-01-15,Visita,Pide refinanciar
+295,109,2025-10-05,Visita,Pago informado
+296,111,2026-07-01,Visita,Reclamo
+297,111,2026-05-05,WhatsApp,Sin respuesta
+298,111,2026-03-30,Teléfono,Reclamo
+299,111,2025-05-29,Teléfono,Sin respuesta
+300,111,2025-06-06,Teléfono,Sin respuesta
+301,111,2026-06-05,Mail,Promesa de pago
+302,111,2026-09-15,WhatsApp,Reclamo
+303,112,2026-02-03,Mail,Sin respuesta
+304,118,2025-12-01,Mail,Pago informado
+305,118,2025-02-02,Visita,Pago informado
+306,118,2025-05-23,Mail,Promesa de pago
+307,119,2026-04-05,Mail,Promesa de pago
+308,119,2025-12-11,Mail,Promesa de pago
+309,119,2026-01-07,Mail,Reclamo
+310,119,2025-09-22,Visita,Pago informado
+311,120,2026-04-19,Visita,Pide refinanciar
+312,120,2026-08-06,WhatsApp,Promesa de pago
+313,120,2026-05-05,Visita,Sin respuesta
+314,121,2026-06-08,WhatsApp,Sin respuesta
+315,121,2026-06-19,Teléfono,Promesa de pago
+316,121,2026-09-23,Mail,Pago informado
+317,121,2026-08-15,WhatsApp,Promesa de pago
+318,121,2026-08-05,Mail,Promesa de pago
+319,121,2026-04-01,WhatsApp,Reclamo
+320,121,2026-04-06,WhatsApp,Sin respuesta
+321,121,2026-05-15,Teléfono,Pago informado
+322,121,2026-07-02,WhatsApp,Promesa de pago
+323,121,2026-09-16,Visita,Pide refinanciar
+324,121,2026-05-13,Visita,Pago informado
+325,121,2026-04-26,Mail,Pago informado
+326,121,2026-05-16,Visita,Reclamo
+327,121,2026-08-14,Teléfono,Sin respuesta
+328,121,2026-06-20,Mail,Sin respuesta
+329,121,2026-09-18,WhatsApp,Promesa de pago
+330,121,2026-08-08,Visita,Reclamo
+331,121,2026-04-14,WhatsApp,Reclamo
+332,124,2025-07-21,Visita,Promesa de pago
+333,125,2025-07-26,Visita,Promesa de pago
+334,126,2026-03-08,Visita,Promesa de pago
+335,126,2026-02-24,Teléfono,Pide refinanciar
+336,126,2025-06-17,Mail,Reclamo
+337,126,2025-05-10,Teléfono,Pago informado
+338,126,2026-02-08,Mail,Pago informado
+339,126,2026-06-06,Visita,Pago informado
+340,126,2026-02-01,Visita,Reclamo
+341,127,2025-08-03,Mail,Promesa de pago
+342,130,2025-04-03,Mail,Pago informado
+343,131,2026-04-02,Teléfono,Pago informado
+344,132,2025-09-21,WhatsApp,Promesa de pago
+345,132,2025-07-16,Visita,Reclamo
+346,134,2026-03-16,Visita,Promesa de pago
+347,136,2025-06-26,WhatsApp,Promesa de pago
+348,137,2025-02-23,WhatsApp,Pide refinanciar
+349,137,2026-03-17,Teléfono,Sin respuesta
+350,138,2025-10-02,Mail,Pago informado
+351,138,2026-02-05,WhatsApp,Sin respuesta
+352,138,2025-08-29,Mail,Promesa de pago
+353,138,2025-02-03,Teléfono,Sin respuesta
+354,138,2026-05-04,Mail,Sin respuesta
+355,138,2025-09-26,Visita,Sin respuesta
+356,138,2025-02-21,Visita,Promesa de pago
+357,139,2025-01-31,Visita,Promesa de pago
+358,139,2025-07-30,Mail,Pago informado
+359,140,2026-01-24,Teléfono,Reclamo
+360,140,2026-06-08,WhatsApp,Promesa de pago
+361,140,2025-01-02,Visita,Sin respuesta
+362,140,2025-02-17,Visita,Promesa de pago
+363,140,2025-02-25,Teléfono,Pide refinanciar
+364,142,2026-08-12,WhatsApp,Promesa de pago
+365,143,2026-07-13,WhatsApp,Promesa de pago
+366,143,2026-02-16,Teléfono,Pide refinanciar
+367,143,2025-01-05,Visita,Promesa de pago
+368,143,2026-01-09,Mail,Sin respuesta
+369,143,2026-04-05,Visita,Pide refinanciar
+370,143,2026-02-23,Visita,Promesa de pago
+371,143,2026-08-09,Visita,Reclamo
+372,143,2025-06-06,Mail,Reclamo
+373,143,2025-11-14,WhatsApp,Sin respuesta
+374,143,2026-05-18,Mail,Reclamo
+375,143,2025-06-17,Teléfono,Reclamo
+376,143,2025-03-16,Visita,Sin respuesta
+377,143,2026-09-26,Visita,Reclamo
+378,143,2025-04-10,Mail,Promesa de pago
+379,143,2026-05-24,Visita,Pago informado
+380,143,2025-07-21,Mail,Sin respuesta
+381,143,2026-05-24,Mail,Reclamo
+382,143,2025-08-20,Mail,Pago informado
+383,143,2026-08-13,Mail,Sin respuesta
+384,143,2025-05-31,Mail,Reclamo
+385,144,2025-09-12,Mail,Pide refinanciar
+386,144,2026-02-12,Visita,Promesa de pago
+387,144,2026-04-30,Mail,Promesa de pago
+388,144,2025-10-19,Teléfono,Promesa de pago
+389,144,2025-01-13,WhatsApp,Reclamo
+390,144,2025-11-16,WhatsApp,Promesa de pago
+391,144,2025-01-19,Teléfono,Sin respuesta
+392,144,2025-07-02,Mail,Promesa de pago
+393,144,2025-08-03,Visita,Pide refinanciar
+394,144,2026-02-08,Mail,Sin respuesta
+395,144,2025-09-02,WhatsApp,Pide refinanciar
+396,145,2025-01-14,Visita,Sin respuesta
+397,145,2025-03-17,WhatsApp,Pide refinanciar
+398,146,2026-03-07,WhatsApp,Pago informado
+399,147,2025-09-19,Mail,Reclamo
+400,147,2025-08-03,WhatsApp,Sin respuesta
+401,147,2025-11-11,WhatsApp,Pago informado
+402,147,2025-02-27,WhatsApp,Pago informado
+403,147,2026-01-10,Mail,Sin respuesta
+404,147,2025-11-24,Mail,Pago informado
+405,148,2025-02-17,Teléfono,Sin respuesta
+406,148,2025-07-06,Mail,Promesa de pago
+407,148,2025-09-15,Mail,Promesa de pago
+408,148,2026-03-10,Teléfono,Pide refinanciar
+409,148,2025-08-22,WhatsApp,Sin respuesta
+410,148,2025-10-28,Teléfono,Sin respuesta
+411,150,2026-06-03,WhatsApp,Promesa de pago
+412,150,2025-12-05,Visita,Promesa de pago
+413,151,2025-02-15,Mail,Pago informado
+414,151,2025-12-29,Teléfono,Sin respuesta
+415,151,2025-12-07,WhatsApp,Sin respuesta
+416,151,2026-09-18,Visita,Pago informado
+417,152,2026-04-09,Visita,Pide refinanciar
+418,152,2025-12-19,WhatsApp,Pide refinanciar
+419,153,2026-04-06,Mail,Promesa de pago
+420,153,2025-05-12,Teléfono,Sin respuesta
+421,153,2026-07-03,WhatsApp,Promesa de pago
+422,156,2026-02-12,WhatsApp,Pago informado
+423,156,2026-03-29,Teléfono,Promesa de pago
+424,156,2025-11-28,WhatsApp,Sin respuesta
+425,156,2025-05-28,Teléfono,Sin respuesta
+426,157,2025-07-25,WhatsApp,Reclamo
+427,159,2026-04-01,Teléfono,Promesa de pago
+428,159,2026-02-17,Mail,Sin respuesta
+429,159,2025-11-23,WhatsApp,Promesa de pago
+430,159,2025-12-19,WhatsApp,Promesa de pago
+431,161,2026-04-25,Mail,Promesa de pago
+432,162,2025-04-07,WhatsApp,Promesa de pago
+433,163,2026-06-09,Mail,Reclamo
+434,163,2026-09-15,Mail,Reclamo
+435,163,2026-08-30,Teléfono,Promesa de pago
+436,163,2026-07-02,Teléfono,Pide refinanciar
+437,163,2026-05-28,Visita,Reclamo
+438,165,2026-09-29,Visita,Promesa de pago
+439,165,2025-11-01,Mail,Promesa de pago
+440,165,2026-02-14,WhatsApp,Promesa de pago
+441,165,2025-06-28,Mail,Pago informado
+442,165,2025-08-28,Mail,Promesa de pago
+443,165,2026-01-03,Teléfono,Sin respuesta
+444,165,2026-02-12,Mail,Sin respuesta
+445,168,2026-07-05,Mail,Sin respuesta
+446,169,2026-05-29,WhatsApp,Pago informado
+447,169,2026-07-01,Teléfono,Sin respuesta
+448,169,2026-07-21,Visita,Sin respuesta
+449,170,2026-03-16,Visita,Pide refinanciar
+450,170,2025-12-29,Teléfono,Pide refinanciar
+451,170,2025-10-02,Teléfono,Pide refinanciar
+452,172,2026-03-21,Visita,Sin respuesta
+453,172,2025-07-07,WhatsApp,Sin respuesta
+454,172,2025-04-24,Mail,Sin respuesta
+455,172,2026-06-21,Visita,Promesa de pago
+456,172,2025-08-17,Teléfono,Sin respuesta
+457,173,2025-02-09,WhatsApp,Promesa de pago
+458,173,2025-04-03,WhatsApp,Sin respuesta
+459,174,2026-01-26,Visita,Reclamo
+460,174,2025-06-05,Teléfono,Pide refinanciar
+461,174,2026-05-18,Visita,Pago informado
+462,174,2025-04-29,Visita,Sin respuesta
+463,176,2025-01-10,Mail,Pago informado
+464,176,2026-05-20,WhatsApp,Sin respuesta
+465,176,2026-02-21,Mail,Sin respuesta
+466,176,2026-02-22,Mail,Sin respuesta
+467,176,2025-06-22,Visita,Pide refinanciar
+468,176,2026-01-11,Visita,Reclamo
+469,177,2026-09-18,Teléfono,Pide refinanciar
+470,177,2025-04-21,Visita,Pago informado
+471,177,2025-07-12,Mail,Reclamo
+472,177,2026-03-05,Mail,Pago informado
+473,178,2025-03-14,Teléfono,Pago informado
+474,178,2025-11-22,WhatsApp,Promesa de pago
+475,178,2026-09-24,Teléfono,Promesa de pago
+476,180,2025-05-08,Teléfono,Pide refinanciar
+477,180,2025-01-05,WhatsApp,Promesa de pago
+478,182,2026-04-04,Visita,Reclamo
+479,182,2026-03-13,WhatsApp,Promesa de pago
+480,182,2025-11-10,Visita,Pago informado
+481,182,2026-03-12,Visita,Promesa de pago
+482,183,2026-07-12,WhatsApp,Pago informado
+483,183,2026-09-12,Teléfono,Sin respuesta
+484,183,2026-08-22,Mail,Sin respuesta
+485,183,2026-09-04,WhatsApp,Sin respuesta
+486,183,2026-08-21,Mail,Pide refinanciar
+487,183,2026-08-25,Mail,Promesa de pago
+488,183,2026-05-27,Mail,Pide refinanciar
+489,183,2026-06-12,Teléfono,Pago informado
+490,183,2026-06-12,Teléfono,Sin respuesta
+491,184,2026-05-31,Teléfono,Pago informado
+492,184,2025-03-27,Visita,Sin respuesta
+493,185,2025-01-24,Mail,Pago informado
+494,185,2025-07-18,Visita,Sin respuesta
+495,185,2025-01-10,Visita,Promesa de pago
+496,186,2025-05-04,Mail,Sin respuesta
+497,186,2026-09-24,Visita,Sin respuesta
+498,188,2025-08-25,Mail,Promesa de pago
+499,188,2025-07-18,Mail,Sin respuesta
+500,188,2025-03-18,Teléfono,Promesa de pago
+501,190,2025-05-26,Visita,Sin respuesta
+502,190,2026-04-21,Visita,Pago informado
+503,190,2025-10-11,Mail,Pago informado
+504,190,2025-12-07,Mail,Pago informado
+505,191,2026-02-06,Teléfono,Reclamo
+506,191,2026-07-23,WhatsApp,Pide refinanciar
+507,191,2025-08-02,Visita,Sin respuesta
+508,191,2026-01-30,WhatsApp,Pide refinanciar
+509,191,2025-04-29,Visita,Pide refinanciar
+510,192,2026-04-13,WhatsApp,Promesa de pago
+511,192,2026-04-25,Teléfono,Pago informado
+512,192,2026-08-07,Visita,Sin respuesta
+513,192,2025-05-28,Teléfono,Promesa de pago
+514,195,2025-10-02,Mail,Promesa de pago
+515,195,2025-12-07,Visita,Sin respuesta
+516,195,2025-09-05,Mail,Promesa de pago
+517,195,2026-04-17,Teléfono,Sin respuesta
+518,195,2026-02-10,Mail,Reclamo
+519,196,2025-02-25,WhatsApp,Sin respuesta
+520,196,2025-02-23,Teléfono,Promesa de pago
+521,196,2025-06-05,WhatsApp,Sin respuesta
+522,196,2025-12-16,WhatsApp,Promesa de pago
+523,196,2025-03-14,Teléfono,Pago informado
+524,198,2026-07-02,Visita,Sin respuesta
+525,198,2026-09-08,Teléfono,Pago informado
+526,198,2026-05-13,Mail,Sin respuesta
+527,198,2026-08-13,Visita,Pago informado
+528,198,2026-06-05,Teléfono,Pide refinanciar
+529,198,2026-08-23,WhatsApp,Promesa de pago
+530,200,2025-06-06,WhatsApp,Pago informado
+531,200,2026-04-29,WhatsApp,Pide refinanciar
+532,200,2025-02-25,WhatsApp,Pago informado
+533,201,2026-03-31,Mail,Sin respuesta
+534,201,2025-04-24,Visita,Pago informado
+535,203,2025-01-16,WhatsApp,Pago informado
+536,204,2026-06-03,WhatsApp,Pago informado
+537,204,2026-09-17,Mail,Sin respuesta
+538,204,2026-02-28,Visita,Promesa de pago
+539,204,2025-10-08,Teléfono,Pago informado
+540,204,2025-05-31,Mail,Pago informado
+541,206,2026-08-11,WhatsApp,Promesa de pago
+542,206,2026-03-23,Teléfono,Sin respuesta
+543,206,2026-08-08,Teléfono,Pago informado
+544,206,2026-07-30,Mail,Sin respuesta
+545,207,2026-06-16,WhatsApp,Sin respuesta
+546,210,2025-06-21,Mail,Promesa de pago
+547,210,2025-10-26,Visita,Promesa de pago
+548,210,2026-03-06,WhatsApp,Promesa de pago
+549,210,2025-05-21,WhatsApp,Sin respuesta
+550,210,2026-05-18,Mail,Promesa de pago
+551,210,2026-08-05,Mail,Promesa de pago
+552,210,2026-03-13,Visita,Promesa de pago
+553,210,2025-06-09,WhatsApp,Sin respuesta
+554,210,2025-12-17,WhatsApp,Pago informado
+555,212,2026-09-25,Mail,Pago informado
+556,212,2025-03-25,Teléfono,Pago informado
+557,212,2026-09-27,WhatsApp,Promesa de pago
+558,212,2026-09-10,WhatsApp,Promesa de pago
+559,212,2026-04-17,WhatsApp,Sin respuesta
+560,212,2025-08-24,Visita,Sin respuesta
+561,212,2025-11-26,Visita,Sin respuesta
+562,212,2025-11-13,Teléfono,Promesa de pago
+563,213,2025-09-29,Mail,Promesa de pago
+564,215,2026-04-06,WhatsApp,Sin respuesta
+565,215,2025-09-05,Mail,Pago informado
+566,217,2026-05-28,Mail,Pago informado
+567,218,2025-11-06,Teléfono,Reclamo
+568,218,2025-07-12,Mail,Promesa de pago
+569,218,2026-08-13,Mail,Pide refinanciar
+570,218,2026-06-10,Mail,Sin respuesta
+571,218,2025-08-11,WhatsApp,Sin respuesta
+572,218,2026-02-06,Teléfono,Pide refinanciar
+573,218,2025-04-07,Teléfono,Pago informado
+574,218,2025-08-28,Visita,Pago informado
+575,221,2026-05-02,Teléfono,Reclamo
+576,221,2026-05-28,Mail,Promesa de pago
+577,221,2025-04-25,Mail,Pago informado
+578,221,2026-04-03,WhatsApp,Sin respuesta
+579,221,2025-11-10,WhatsApp,Pago informado
+580,221,2025-11-23,Teléfono,Pide refinanciar
+581,221,2025-08-28,Mail,Reclamo
+582,221,2026-02-24,Teléfono,Sin respuesta
+583,223,2026-07-17,WhatsApp,Pago informado
+584,223,2026-04-16,Visita,Pago informado
+585,223,2025-11-11,Teléfono,Promesa de pago
+586,223,2025-04-22,Mail,Sin respuesta
+587,224,2025-02-10,Visita,Sin respuesta
+588,228,2026-09-19,Mail,Pago informado
+589,228,2026-09-13,Mail,Pago informado
+590,228,2026-04-21,Mail,Reclamo
+591,228,2026-05-20,Mail,Sin respuesta
+592,228,2025-12-28,Mail,Sin respuesta
+593,228,2026-03-16,Mail,Pago informado
+594,228,2026-08-17,Visita,Promesa de pago
+595,228,2026-04-14,Mail,Promesa de pago
+596,228,2026-04-03,Visita,Reclamo
+597,228,2025-12-16,Mail,Pide refinanciar
+598,228,2026-08-07,WhatsApp,Promesa de pago
+599,228,2025-12-14,Teléfono,Pide refinanciar
+600,229,2025-12-14,Mail,Pago informado
+601,230,2025-06-12,WhatsApp,Promesa de pago
+602,230,2026-03-28,Visita,Pago informado
+603,230,2026-03-22,Visita,Pago informado
+604,230,2025-02-15,Teléfono,Pide refinanciar
+605,230,2026-07-08,Visita,Pide refinanciar
+606,230,2025-11-03,Visita,Reclamo
+607,230,2025-03-22,Mail,Sin respuesta
+608,230,2026-04-29,Teléfono,Reclamo
+609,232,2025-01-13,Visita,Promesa de pago
+610,232,2026-01-22,Teléfono,Sin respuesta
+611,232,2026-07-17,Mail,Sin respuesta
+612,233,2026-02-20,WhatsApp,Pago informado
+613,234,2026-07-27,Mail,Pago informado
+614,234,2025-11-05,WhatsApp,Pide refinanciar
+615,234,2026-09-28,Visita,Pide refinanciar
+616,234,2026-01-29,Visita,Reclamo
+617,234,2026-06-21,WhatsApp,Pide refinanciar
+618,234,2026-02-04,Visita,Sin respuesta
+619,234,2026-03-08,Visita,Reclamo
+620,234,2025-11-14,Visita,Sin respuesta
+621,234,2026-01-29,Visita,Sin respuesta
+622,234,2026-05-09,Visita,Pago informado
+623,234,2026-04-16,Visita,Pide refinanciar
+624,234,2026-03-03,Visita,Reclamo
+625,235,2025-10-15,WhatsApp,Pago informado
+626,235,2026-02-08,Mail,Pago informado
+627,236,2025-07-07,Mail,Pago informado
+628,236,2025-07-10,Mail,Pago informado
+629,236,2026-02-18,Visita,Pide refinanciar
+630,236,2025-12-09,Visita,Pago informado
+631,236,2025-03-03,Mail,Pago informado
+632,236,2026-07-09,Teléfono,Promesa de pago
+633,236,2026-09-07,Teléfono,Sin respuesta
+634,236,2026-02-13,Teléfono,Promesa de pago
+635,236,2026-08-07,Teléfono,Promesa de pago
+636,236,2025-07-12,Visita,Pago informado
+637,236,2025-09-17,WhatsApp,Reclamo
+638,236,2025-04-15,Teléfono,Sin respuesta
+639,236,2026-05-26,Visita,Pago informado
+640,237,2025-03-03,Visita,Pago informado
+641,237,2025-08-02,Mail,Pago informado
+642,238,2026-07-16,Teléfono,Reclamo
+643,238,2026-08-24,Mail,Reclamo
+644,238,2026-08-03,Teléfono,Reclamo
+645,238,2026-06-27,Visita,Reclamo
+646,238,2026-09-18,Mail,Pago informado
+647,238,2026-06-21,Mail,Reclamo
+648,238,2026-05-28,Mail,Promesa de pago
+649,238,2026-08-21,WhatsApp,Pago informado
+650,238,2026-06-12,Visita,Reclamo
+651,238,2026-07-04,WhatsApp,Promesa de pago
+652,238,2026-03-30,WhatsApp,Reclamo
+653,238,2026-08-23,WhatsApp,Promesa de pago
+654,238,2026-04-03,Teléfono,Pide refinanciar
+655,238,2026-09-10,WhatsApp,Reclamo
+656,239,2026-05-29,Visita,Pago informado
+657,239,2026-08-31,Mail,Promesa de pago
+658,239,2026-07-31,WhatsApp,Promesa de pago
+659,239,2026-06-19,WhatsApp,Reclamo
+660,239,2026-08-14,Visita,Reclamo
+661,239,2026-07-23,Mail,Reclamo
+662,239,2026-07-16,Teléfono,Pago informado
+663,240,2026-02-07,WhatsApp,Promesa de pago
+664,240,2026-09-12,Mail,Promesa de pago
+665,241,2026-01-23,Mail,Pide refinanciar
+666,242,2026-06-30,Visita,Reclamo
+667,242,2026-05-11,Mail,Pide refinanciar
+668,242,2026-04-26,Visita,Sin respuesta
+669,242,2025-11-16,WhatsApp,Sin respuesta
+670,243,2025-10-04,Mail,Pago informado
+671,243,2025-04-24,WhatsApp,Sin respuesta
+672,243,2026-09-30,Teléfono,Sin respuesta
+673,243,2025-08-06,Visita,Pide refinanciar
+674,243,2025-04-05,WhatsApp,Pago informado
+675,243,2026-01-25,Mail,Pide refinanciar
+676,243,2026-04-10,Visita,Pago informado
+677,243,2026-01-19,WhatsApp,Promesa de pago
+678,244,2026-05-23,Mail,Promesa de pago
+679,244,2025-10-12,Visita,Pide refinanciar
+680,244,2025-05-18,Teléfono,Pago informado
+681,244,2025-04-13,WhatsApp,Promesa de pago
+682,244,2026-03-14,Visita,Pide refinanciar
+683,244,2025-11-10,Mail,Pago informado
+684,244,2026-05-18,Teléfono,Pago informado
+685,244,2025-11-22,WhatsApp,Pide refinanciar
+686,244,2026-02-04,Mail,Pide refinanciar
+687,244,2026-08-31,Teléfono,Sin respuesta
+688,244,2025-02-07,Mail,Reclamo
+689,244,2025-07-29,Visita,Reclamo
+690,244,2025-09-03,Visita,Pide refinanciar
+691,247,2026-05-25,Mail,Pago informado
+692,247,2025-03-31,Teléfono,Promesa de pago
+693,247,2025-09-02,Mail,Pago informado
+694,247,2026-07-02,Visita,Sin respuesta
+695,247,2025-06-15,Mail,Pago informado
+696,248,2026-07-18,WhatsApp,Promesa de pago
+697,248,2026-09-22,Teléfono,Pago informado
+698,249,2026-06-23,WhatsApp,Promesa de pago
+699,249,2026-05-24,WhatsApp,Pide refinanciar
+700,249,2026-09-22,Mail,Promesa de pago
+701,249,2026-07-02,Visita,Reclamo
+702,249,2026-06-15,WhatsApp,Pago informado
+703,250,2025-02-03,Teléfono,Promesa de pago
+704,250,2025-06-30,WhatsApp,Pago informado
+705,250,2025-09-29,Visita,Pago informado
+706,250,2026-03-25,Teléfono,Sin respuesta
+707,250,2026-01-10,WhatsApp,Pago informado
+708,250,2025-05-20,Visita,Promesa de pago
+709,251,2025-09-16,Mail,Pago informado
+710,251,2026-03-27,Teléfono,Pide refinanciar
+711,251,2026-02-11,WhatsApp,Sin respuesta
+712,251,2025-04-17,WhatsApp,Pago informado
+713,251,2025-07-26,Visita,Promesa de pago
+714,251,2025-02-28,Teléfono,Sin respuesta
+715,252,2025-01-25,Teléfono,Pago informado
+716,252,2026-09-07,Visita,Pago informado
+717,253,2026-07-07,Teléfono,Pago informado
+718,253,2025-12-03,Teléfono,Reclamo
+719,253,2026-09-16,Visita,Reclamo
+720,253,2026-08-17,WhatsApp,Pago informado
+721,253,2026-02-17,Mail,Pago informado
+722,253,2026-05-02,Visita,Reclamo
+723,253,2026-03-06,Mail,Promesa de pago
+724,253,2026-04-30,Mail,Sin respuesta
+725,253,2026-08-12,Teléfono,Pide refinanciar
+726,253,2025-12-02,Visita,Pide refinanciar
+727,253,2026-02-20,WhatsApp,Promesa de pago
+728,254,2025-10-14,Teléfono,Pago informado
+729,255,2026-01-18,Teléfono,Promesa de pago
+730,255,2026-03-19,Teléfono,Sin respuesta
+731,256,2026-01-16,WhatsApp,Sin respuesta
+732,256,2025-12-31,Visita,Sin respuesta
+733,256,2025-04-17,Mail,Reclamo
+734,258,2026-04-03,Teléfono,Promesa de pago
+735,259,2026-08-23,Mail,Reclamo
+736,259,2026-03-15,WhatsApp,Promesa de pago
+737,259,2026-05-07,Visita,Sin respuesta
+738,259,2026-05-07,Visita,Sin respuesta
+739,259,2026-05-11,WhatsApp,Reclamo
+740,259,2026-04-26,Visita,Sin respuesta
+741,259,2026-08-01,WhatsApp,Promesa de pago
+742,259,2026-04-10,Mail,Sin respuesta
+743,260,2025-11-11,Mail,Pago informado
+744,260,2025-07-09,Visita,Sin respuesta
+745,260,2025-02-17,Mail,Sin respuesta
+746,260,2025-08-14,Teléfono,Promesa de pago
+747,262,2026-04-13,WhatsApp,Pago informado
+748,262,2026-02-13,Mail,Pide refinanciar
+749,262,2025-01-08,Mail,Promesa de pago
+750,262,2026-08-19,Visita,Promesa de pago
+751,262,2026-01-21,Teléfono,Reclamo
+752,262,2025-06-28,WhatsApp,Reclamo
+753,262,2026-06-27,WhatsApp,Sin respuesta
+754,265,2025-02-27,Mail,Pago informado
+755,266,2026-01-26,Visita,Promesa de pago
+756,266,2026-06-16,Visita,Pago informado
+757,266,2026-05-24,Teléfono,Sin respuesta
+758,266,2026-03-15,Teléfono,Pago informado
+759,266,2025-10-31,WhatsApp,Sin respuesta
+760,268,2025-11-04,Teléfono,Pago informado
+761,268,2026-06-02,WhatsApp,Promesa de pago
+762,269,2025-01-27,Mail,Sin respuesta
+763,269,2025-05-24,Visita,Promesa de pago
+764,269,2025-11-04,Visita,Pago informado
+765,269,2026-07-02,Visita,Sin respuesta
+766,270,2025-09-21,Mail,Pago informado
+767,270,2026-05-03,Visita,Sin respuesta
+768,270,2025-06-23,Visita,Sin respuesta
+769,270,2025-03-11,WhatsApp,Reclamo
+770,270,2025-06-23,WhatsApp,Pide refinanciar
+771,270,2026-09-06,WhatsApp,Pide refinanciar
+772,272,2025-07-05,WhatsApp,Reclamo
+773,272,2025-11-19,Visita,Promesa de pago
+774,272,2025-06-11,Visita,Sin respuesta
+775,272,2025-10-06,Visita,Promesa de pago
+776,273,2026-04-19,Mail,Pago informado
+777,273,2026-04-08,Visita,Promesa de pago
+778,273,2026-01-21,WhatsApp,Sin respuesta
+779,274,2025-06-27,Mail,Pago informado
+780,276,2026-02-01,WhatsApp,Pago informado
+781,276,2025-10-03,Mail,Sin respuesta
+782,276,2025-05-15,WhatsApp,Sin respuesta
+783,276,2026-07-30,WhatsApp,Promesa de pago
+784,276,2025-07-14,WhatsApp,Sin respuesta
+785,277,2026-09-04,WhatsApp,Promesa de pago
+786,277,2025-10-05,Visita,Pago informado
+787,278,2025-03-06,WhatsApp,Pago informado
+788,278,2026-08-02,Mail,Promesa de pago
+789,279,2025-06-29,WhatsApp,Pago informado
+790,279,2025-12-16,Mail,Pago informado
+791,279,2025-07-13,WhatsApp,Pago informado
+792,279,2026-08-14,Visita,Pago informado
+793,279,2025-09-22,Mail,Reclamo
+794,280,2026-02-04,Visita,Pago informado
+795,281,2026-05-27,Mail,Reclamo
+796,281,2025-04-03,Teléfono,Pago informado
+797,281,2025-09-18,Mail,Sin respuesta
+798,281,2025-08-23,Mail,Promesa de pago
+799,281,2025-04-11,Visita,Pago informado
+800,281,2025-08-29,Visita,Pago informado
+801,281,2025-07-03,WhatsApp,Sin respuesta
+802,281,2026-01-07,WhatsApp,Reclamo
+803,281,2025-03-16,Mail,Reclamo
+804,282,2025-03-15,Teléfono,Reclamo
+805,282,2025-02-18,WhatsApp,Pide refinanciar
+806,282,2025-05-23,Visita,Promesa de pago
+807,282,2026-02-06,Mail,Pide refinanciar
+808,282,2025-05-04,Visita,Sin respuesta
+809,282,2026-09-14,Teléfono,Pago informado
+810,282,2025-12-09,WhatsApp,Promesa de pago
+811,283,2025-10-06,Visita,Sin respuesta
+812,283,2025-04-19,Mail,Promesa de pago
+813,284,2026-01-09,Visita,Promesa de pago
+814,284,2025-01-19,Visita,Sin respuesta
+815,284,2026-09-15,Visita,Reclamo
+816,284,2026-03-28,Teléfono,Reclamo
+817,285,2026-08-06,Mail,Sin respuesta
+818,285,2026-07-18,Visita,Promesa de pago
+819,285,2026-04-03,Visita,Pago informado
+820,286,2025-06-18,Mail,Promesa de pago
+821,286,2026-02-19,WhatsApp,Pago informado
+822,286,2025-04-13,WhatsApp,Sin respuesta
+823,286,2026-07-28,WhatsApp,Promesa de pago
+824,286,2025-07-17,Teléfono,Promesa de pago
+825,286,2025-03-05,WhatsApp,Sin respuesta
+826,286,2025-08-08,Visita,Promesa de pago
+827,287,2026-09-03,Teléfono,Pago informado
+828,289,2025-03-11,Mail,Sin respuesta
+829,289,2025-12-07,Teléfono,Pago informado
+830,289,2025-07-11,Teléfono,Promesa de pago
+831,290,2025-11-06,Mail,Pide refinanciar
+832,291,2026-07-28,WhatsApp,Reclamo
+833,291,2026-09-06,Teléfono,Promesa de pago
+834,291,2026-02-03,Teléfono,Promesa de pago
+835,291,2025-01-01,Teléfono,Sin respuesta
+836,291,2025-03-22,Visita,Reclamo
+837,291,2026-01-14,WhatsApp,Pago informado
+838,291,2026-05-23,Visita,Promesa de pago
+839,291,2026-02-05,Visita,Reclamo
+840,293,2026-03-19,Teléfono,Pago informado
+841,294,2025-08-29,WhatsApp,Pago informado
+842,296,2026-04-26,Teléfono,Pago informado
+843,296,2025-07-12,Teléfono,Sin respuesta
+844,297,2026-05-26,WhatsApp,Sin respuesta
+845,297,2025-12-10,Mail,Pago informado
+846,297,2025-10-27,WhatsApp,Promesa de pago
+847,298,2026-05-28,Mail,Promesa de pago
+848,299,2026-04-29,Teléfono,Sin respuesta
+849,299,2025-02-17,Mail,Sin respuesta
+850,299,2025-06-06,Mail,Promesa de pago
+851,300,2026-05-25,Mail,Promesa de pago
+852,300,2026-02-12,Mail,Pago informado
+853,300,2025-08-17,Teléfono,Promesa de pago
+854,300,2026-07-13,Visita,Reclamo
+855,300,2026-09-10,Teléfono,Promesa de pago
+856,300,2026-07-17,WhatsApp,Promesa de pago

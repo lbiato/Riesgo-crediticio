@@ -1,0 +1,6 @@
+# Soluciones de referencia: no se publican (el repo muestra MIS soluciones)
+_referencia/
+# Python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
