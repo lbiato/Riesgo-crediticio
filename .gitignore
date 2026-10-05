@@ -1,5 +1,7 @@
 # Soluciones de referencia: no se publican (el repo muestra MIS soluciones)
 _referencia/
+# Notas personales
+MACHETE_GIT.md
 # Python
 __pycache__/
 .venv/
